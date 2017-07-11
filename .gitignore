@@ -53,4 +53,5 @@ Temporary Items
 /.idea/
 /target/
 bin/generated/
-src/com/medievallords/carbyne/gear/specials/Special.java
+out/
+src/META-INF/
