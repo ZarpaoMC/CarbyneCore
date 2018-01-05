@@ -55,3 +55,4 @@ Temporary Items
 bin/generated/
 out/
 src/META-INF/
+/out/
